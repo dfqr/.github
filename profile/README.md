@@ -1,4 +1,4 @@
-## dfqr: data management and query utility for R
+## dfqr
 
 See the [documentation website](https://dfqr.github.io/) to get started.
 
